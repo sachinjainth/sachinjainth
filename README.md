@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**sachinjainth/sachinjainth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sachin Jainth 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | MIS & Reporting Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an MIS and reporting professional with experience in operations, team coordination, quality checks, daily reporting, and client communication. I am building my data analytics skills to turn raw data into meaningful business insights and actionable reports.
+
+### 🛠️ Skills & Tools
+
+- **Microsoft Excel:** PivotTables, XLOOKUP, SUMIFS, COUNTIFS, dashboards, KPI reporting
+- **Power Query:** Data cleaning, transformation, merging, appending, and reporting automation
+- **Power BI:** Interactive dashboards, data visualization, and business insights
+- **SQL / MySQL:** Filtering, joins, aggregations, GROUP BY, and data analysis
+
+### 📊 Featured Projects
+
+My portfolio includes practical analytics projects focused on data cleaning, KPI analysis, dashboard development, and business reporting.
+
+- **Data Analytics Portfolio:** [View my portfolio](https://dub.sh/SachinPortfolio)
+
+*More project documentation and files will be added here as I publish my work.*
+
+### 🎯 Career Goal
+
+Seeking opportunities in Data Analytics, MIS Reporting, and Business Intelligence where I can apply my analytical skills to solve business problems and support data-driven decisions.
+
+### 📫 Connect With Me
+
+- **GitHub:** [sachinjainth](https://github.com/sachinjainth)
+- **Portfolio:** [Sachin's Data Analytics Portfolio](https://dub.sh/SachinPortfolio)
